@@ -23,7 +23,6 @@ const Navbar = async () => {
                 </div>
             </Container>
         </div>
-        // 7:42:50
     );
 };
 

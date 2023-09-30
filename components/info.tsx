@@ -42,5 +42,3 @@ const Info: React.FC<InfoProps> = ({ data }) => {
 };
 
 export default Info;
-
-// 8:46:00
